@@ -1,2 +1,6 @@
 # iTOL_tools
-This scripts automate the creation of configuration files to color and prune trees in iTOL https://itol.embl.de/.
+### Description
+---
+This scripts automate the creation of configuration files to color and prune trees in iTOL  
+iTOL website: [https://itol.embl.de/] (https://itol.embl.de/)  
+
